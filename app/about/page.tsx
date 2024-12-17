@@ -1,5 +1,4 @@
-import Hero from "@/components/hero"
-import Navbar from "@/components/navbar"
+
 import Button from "@/components/button"
 import Image from "next/image"
 
