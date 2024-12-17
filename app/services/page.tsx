@@ -18,7 +18,7 @@ function Services(){
         <div className="flex h-[60vh]">
             <div className="w-[50vw] h-[60vh]">
                 <h1 className="text-3xl my-[60px] px-[40px] animate-pulse">Mobile Application Development</h1>
-                <p className="px-[40px] ">I create innovative and user-friendly mobile applications that enhance your brand's presence on mobile devices. I am specialized in developing custom solutions for both iOS and Android platforms, ensuring a seamless experience for your users. I focus on intuitive design and robust functionality, tailoring each app to meet your unique business needs. With agile development process, I deliver high-quality apps on time and within budget. Partner with me to transform your ideas into engaging mobile experiences that drive user engagement and loyalty.</p>
+                <p className="px-[40px] ">I create innovative and user-friendly mobile applications that enhance your brand presence on mobile devices. I am specialized in developing custom solutions for both iOS and Android platforms, ensuring a seamless experience for your users. I focus on intuitive design and robust functionality, tailoring each app to meet your unique business needs. With agile development process, I deliver high-quality apps on time and within budget. Partner with me to transform your ideas into engaging mobile experiences that drive user engagement and loyalty.</p>
             </div>
             <Image src="/images/mobileAppDev.jpg" alt="web development" width="500" height="600" ></Image>
             
@@ -37,7 +37,7 @@ function Services(){
         <div className="flex h-[60vh]">
             <div className="w-[50vw] h-[60vh]">
                 <h1 className="text-3xl my-[60px] px-[40px] animate-pulse">Digital Marketing</h1>
-                <p className="px-[40px] ">I offer comprehensive digital marketing services designed to elevate your brand and drive measurable results. I am specialized in  social media marketing, content creation, and paid advertising to ensure your business reaches its target audience effectively. I leverage data-driven strategies to boost online visibility, engage customers, and increase conversions. Whether you're looking to build brand awareness or enhance customer loyalty, My tailored campaigns are crafted to meet your unique goals. Partner with me to navigate the digital landscape and achieve sustainable growth for your business.</p>
+                <p className="px-[40px] ">I offer comprehensive digital marketing services designed to elevate your brand and drive measurable results. I am specialized in  social media marketing, content creation, and paid advertising to ensure your business reaches its target audience effectively. I leverage data-driven strategies to boost online visibility, engage customers, and increase conversions. Whether youre looking to build brand awareness or enhance customer loyalty, My tailored campaigns are crafted to meet your unique goals. Partner with me to navigate the digital landscape and achieve sustainable growth for your business.</p>
             </div>
             <Image src="/images/digitalMarketing.jpg" alt="web development" width="500" height="600" className="mt-10 "></Image>
             
